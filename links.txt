@@ -1,0 +1,4 @@
+sqoop - https://medium.com/analytics-vidhya/sqoop-how-to-install-in-5-steps-in-windows-10-ca2f17e11e75
+hadoop - https://medium.com/analytics-vidhya/hadoop-setting-up-a-single-node-cluster-in-windows-4221aab69aa6
+pig- https://towardsdatascience.com/installing-apache-pig-0-17-0-on-windows-10-7b19ce61900d
+hive - https://towardsdatascience.com/installing-apache-hive-3-1-2-on-windows-10-70669ce79c79
